@@ -85,7 +85,7 @@ default-features = false
 version = "0.11"
 
 [dependencies.rand]
-version = "0.9"
+version = "0.10"
 optional = true
 
 [dependencies.ring]
